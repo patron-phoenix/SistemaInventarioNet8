@@ -1,4 +1,4 @@
-namespace SistemaInventarioNet8.Models
+namespace SistemaInventarioNet8.Modelos.ViewModels
 {
     public class ErrorViewModel
     {
